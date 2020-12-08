@@ -29,7 +29,6 @@ body
 	width: 550px;
 	height: 900px;
 	position: fixed;
-	:2;
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
